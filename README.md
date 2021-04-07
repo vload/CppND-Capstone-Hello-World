@@ -4,6 +4,13 @@ In this project i built a simple pong game.
 
 The prject is divided into 4 main classes and a few helper classes.
 
+The main classes are Pong, Input, Graphics, Physics and they control game logic, user input, sdl graphics and collisions respectively.
+The helper classes wrap the SDL context implementing RAII.
+
+Classes are split into headers and cpp files. The headers are placed in the include folder and the cpp files in the src folder.
+
+I have also created concepts.h which controls different settings for the game.
+
 ## Rubric Criteria
 
 All of the following are used throughout the project:
