@@ -1,6 +1,6 @@
 # Pong Game
 
-In this project i built a simple pong game.
+In this project I built a simple pong game.
 
 The prject is divided into 4 main classes and a few helper classes.
 
